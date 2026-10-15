@@ -1,0 +1,32 @@
+body{
+    background-color: #f1f5f9;
+    color: #1f2937;
+    font-family: Arial,  sans-serif;
+    line-height: 1.6;
+    margin: 0;  
+    padding: 24px;
+}
+h1{
+    color: #1e3a8a;
+    background-color: #dbeafe;
+    text-align: center;
+    font-size: 32px;
+    padding: 16px;
+    border-radius: 12px;
+    border-bottom: 4px solid #168bff;
+    margin-bottom: 20px;
+}
+h2{
+    color: #075985;
+    font-size: 23px;
+    border-bottom: 2px solid #ffd447;
+    padding-bottom: 6px;
+    margin-top: 24px;
+}
+p{
+    font-size: 16px;
+    margin: 10px 0;
+}
+ul, ol{
+    padding-left: 28px;
+}
